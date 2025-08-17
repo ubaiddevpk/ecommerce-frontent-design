@@ -189,6 +189,19 @@ const Listitems = [
     Features: "Metallic",
     image: immge27,
   },
+  {
+    id: 15,
+    title: "Vivo",
+    brand: "Samsung",
+    category: "mobile phone",
+    price: 1000,
+    discount: 200,
+    rating: 4.4,
+    orders: 80,
+    shipping: "Free Shipping",
+    Features: "Metallic",
+    image: immge27,
+  },
 ];
 export default Listitems;
  
