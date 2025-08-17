@@ -21,7 +21,7 @@ const MainPage = () => {
       <DealsAndOffers
         title="Deals and Offers"
         subtitle="Hygiene Equipments"
-        endTime="2025-07-23T23:59:59"
+        endTime="2030-07-23T23:59:59"
         products={products}
       />
       <HomeAndOutdoor
