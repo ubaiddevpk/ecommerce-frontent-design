@@ -7,7 +7,7 @@ import {
 import { AiFillApple } from "react-icons/ai";
 import { FaGooglePlay } from "react-icons/fa";
 import { IoIosArrowUp } from "react-icons/io";
-import unitedstate from "../assets/flags/US@2x.png";
+import unitedstate from "../assets/flags/us.png";
 import logo from "../assets/logo.png";
 const Footer = () => {
   return (

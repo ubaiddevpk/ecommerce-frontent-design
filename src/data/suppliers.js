@@ -1,14 +1,12 @@
-import flg1 from "../assets/flags/AE@2x.png";
-import flg2 from "../assets/flags/AU@2x.png";
-import flg3 from "../assets/flags/CN@2x.png";
-import flg4 from "../assets/flags/icon.png"; // (Not used yet, keep or remove)
-import flg5 from "../assets/flags/Dk@2x.png";
-import flg6 from "../assets/flags/FR@2x.png";
-import flg7 from "../assets/flags/GB@2x.png";
-import flg8 from "../assets/flags/IT@2x.png";
-import flg9 from "../assets/flags/RU@2x.png";
-import flg10 from "../assets/flags/US@2x.png";
-
+import flg1 from "../assets/flags/ar.png";
+import flg2 from "../assets/flags/au.png";
+import flg3 from "../assets/flags/cn.png";
+import flg5 from "../assets/flags/dk.png";
+import flg6 from "../assets/flags/fr.png";
+import flg7 from "../assets/flags/gb.png";
+import flg8 from "../assets/flags/it.png";
+import flg9 from "../assets/flags/ru.png";
+import flg10 from "../assets/flags/us.png";
 export const supplierData = [
   {
     flag: flg1,
