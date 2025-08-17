@@ -1,9 +1,9 @@
 // data/YouMayLikeData.js
- import image21 from "../assets/you may like/2 1.png"
- import image233 from "../assets/you may like/Bitmap.png"
- import image213 from "../assets/you may like/image 25.png"
- import image214 from "../assets/you may like/image 26.png"
- import image215 from "../assets/you may like/image 30.png"
+ import image21 from "../assets/youmaylike/one.png"
+ import image233 from "../assets/youmaylike/Bitmap.png"
+ import image213 from "../assets/youmaylike/image25.png"
+ import image214 from "../assets/youmaylike/image26.png"
+ import image215 from "../assets/youmaylike/image30.png"
 
 
 const YouMayLikeData = [

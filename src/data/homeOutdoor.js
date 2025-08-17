@@ -1,21 +1,19 @@
-import image1 from '../assets/homeoutdoor/image(10).png';
-import image2 from '../assets/homeoutdoor/image(12).png';
-import image3 from '../assets/homeoutdoor/image(13).png';
-import image4 from '../assets/homeoutdoor/image(14).png';
-import image5 from '../assets/homeoutdoor/image(15).png';
-import image6 from '../assets/homeoutdoor/image(16).png';
-import image7 from '../assets/homeoutdoor/image(17).png';
-import image8 from '../assets/homeoutdoor/image(18).png';
-import image11 from '../assets/homeoutdoor/image(1).png';
-import image12 from '../assets/homeoutdoor/image(2).png';
-import image13 from '../assets/homeoutdoor/image(3).png';
-import image14 from '../assets/homeoutdoor/image(4).png';
-import image15 from '../assets/homeoutdoor/image(5).png';
-import image16 from '../assets/homeoutdoor/image(6).png';
-// import image17 from '../assets/homeoutdoor/image(7).png';
-// import image18 from '../assets/homeoutdoor/image(8).png';
-import image9 from '../assets/homeoutdoor/image(9).png';
-import image10 from '../assets/homeoutdoor/image(1).png';
+import image1 from '../assets/homeoutdoor/image-1.png';
+import image2 from '../assets/homeoutdoor/image-2.png';
+import image3 from '../assets/homeoutdoor/image-13.png';
+import image4 from '../assets/homeoutdoor/image-14.png';
+import image5 from '../assets/homeoutdoor/image-15.png';
+import image6 from '../assets/homeoutdoor/image-16.png';
+import image7 from '../assets/homeoutdoor/image-17.png';
+import image8 from '../assets/homeoutdoor/image-18.png';
+import image11 from '../assets/homeoutdoor/image-1.png';
+import image12 from '../assets/homeoutdoor/image-2.png';
+import image13 from '../assets/homeoutdoor/image-3.png';
+import image14 from '../assets/homeoutdoor/image-4.png';
+import image15 from '../assets/homeoutdoor/image-5.png';
+import image16 from '../assets/homeoutdoor/image-6.png';
+import image9 from '../assets/homeoutdoor/image-9.png';
+import image10 from '../assets/homeoutdoor/image-1.png';
 
 export const homeOutdoorProducts = [
   { name: "Smart watches", price: 19, image: image1 },

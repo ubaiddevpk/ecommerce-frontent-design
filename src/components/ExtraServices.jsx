@@ -1,8 +1,8 @@
 import React from "react";
-import search from "../assets/extra services/Icon/control/search.png";
-import calender from "../assets/extra services/Icon/Vector-1.png";
-import vecter from "../assets/extra services/Icon/control/Vector.png";
-import share from "../assets/extra services/Icon/Vector.png";
+import search from "../assets/extraservices/Icon/control/search.png";
+import calender from "../assets/extraservices/Icon/Vector-1.png";
+import vecter from "../assets/extraservices/Icon/control/Vector.png";
+import share from "../assets/extraservices/Icon/Vector.png";
 const ExtraServices = ({ services }) => {
   const icons = [
     { name: "search", src: search },

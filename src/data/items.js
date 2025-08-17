@@ -1,12 +1,12 @@
-import img1 from "../assets/recomendeditems/cloth/21.png"
-import img2 from "../assets/recomendeditems/cloth/image 26.png"
-import img3 from "../assets/recomendeditems/cloth/image 26-1.png"
-import img4 from "../assets/recomendeditems/cloth/image 30.png"
+import img1 from "../assets/recomendeditems/cloth/image21.png"
+import img2 from "../assets/recomendeditems/cloth/image-26.png"
+import img3 from "../assets/recomendeditems/cloth/image-26-1.png"
+import img4 from "../assets/recomendeditems/cloth/image-30.png"
 import img5 from "../assets/recomendeditems/cloth/image24.png"
 import img6 from "../assets/recomendeditems/cloth/Bitmap.png"
 import img7 from "../assets/recomendeditems/cloth/Bitmap-1.png"
-import img8 from "../assets/recomendeditems/tech/image 85.png"
-import img9 from "../assets/recomendeditems/tech/image 86.png"
+import img8 from "../assets/recomendeditems/tech/image-85.png"
+import img9 from "../assets/recomendeditems/tech/image-86.png"
  export const itemData = [
   {
     image: img1,

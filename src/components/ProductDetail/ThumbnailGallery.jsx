@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import image35 from "../../assets/Thumbnailgallery/image 35.png";
-import image36 from "../../assets/Thumbnailgallery/image 36.png";
-import image37 from "../../assets/Thumbnailgallery/image 37.png";
-import image38 from "../../assets/Thumbnailgallery/image 38.png";
-import image39 from "../../assets/Thumbnailgallery/image 39.png";
-import image40 from "../../assets/Thumbnailgallery/image 40.png";
+import image35 from "../../assets/Thumbnailgallery/image35.png";
+import image36 from "../../assets/Thumbnailgallery/image36.png";
+import image37 from "../../assets/Thumbnailgallery/image37.png";
+import image38 from "../../assets/Thumbnailgallery/image38.png";
+import image39 from "../../assets/Thumbnailgallery/image39.png";
+import image40 from "../../assets/Thumbnailgallery/image40.png";
 
 const images = [image35, image36, image37, image38, image39, image40];
 

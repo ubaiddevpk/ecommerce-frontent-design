@@ -1,11 +1,13 @@
-import React from 'react';
-
+import React from "react";
+import image4 from "../assets/homeoutdoor/image-14.png";
 const HomeAndOutdoor = ({ title, buttonLabel, products }) => {
   return (
     <div className="flex flex-col lg:flex-row bg-white rounded-lg overflow-hidden shadow mt-4 mx-auto w-[95%]">
-
       {/* Left side panel */}
-      <div className="w-full lg:w-1/4 bg-[url('/src/assets/homeoutdoor/image(14).png')] bg-cover bg-center flex flex-col justify-center items-center text-black p-4">
+      <div
+        className="w-full lg:w-1/4 bg-cover bg-center flex flex-col justify-center items-center text-black p-4"
+        style={{ backgroundImage: `url(${image4})` }}
+      >
         <h2 className="text-2xl font-bold mb-4 text-center">{title}</h2>
         <button className="bg-white text-black font-semibold py-2 px-4 rounded-full hover:cursor-pointer">
           {buttonLabel}
